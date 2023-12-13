@@ -360,6 +360,14 @@ img {
   transform: scale(1.1);
 }
 
+.project-img img{
+  height: 80%;
+}
+
+.project-title {
+  height: 20%;
+}
+
 /* ===== CONTACT =====*/
 .contact__input {
   width: 100%;
